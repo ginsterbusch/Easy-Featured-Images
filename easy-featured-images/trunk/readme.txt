@@ -17,7 +17,11 @@ With the plugin enabled you can do this from the post list screen. Everything wo
 
 Easy Featured Images also support **WooCommerce**, yay!
 
-Thanks to [Tom McFarlin](https://tommcfarlin.com/the-wordpress-media-uploader/) for the basis of the Javascript that initiates the media uploader, [Cole Patrick](https://unsplash.com/colepatrick) for the fantastic photo for the plugin's featured image and [Vectorgraphit](http://www.vectorgraphit.com/) for the great icon.
+= Thanks =
+
+* [Tom McFarlin](https://tommcfarlin.com/the-wordpress-media-uploader/) for the basis of the Javascript that initiates the media uploader
+* [Cole Patrick](https://unsplash.com/colepatrick) for the fantastic photo for the plugin's featured image
+* [Thomas Meyer](https://github.com/tmconnect) for the German translation.
 
 == Installation ==
 
@@ -38,6 +42,11 @@ If you are having trouble, take a look at the [Managing Plugins](http://codex.wo
 2. WooCommerce Support
 
 == Changelog ==
+
+= 1.1.2 =
+
+* Added proper translation support
+* Added German translation
 
 = 1.1.1 =
 
