@@ -17,7 +17,7 @@ With the plugin enabled you can do this from the post list screen. Everything wo
 
 Easy Featured Images also support **WooCommerce**, yay!
 
-Thanks to [Tom McFarlin](https://tommcfarlin.com/the-wordpress-media-uploader/) for the basis of the Javascript that initiates the media uploader and thanks to [Cole Patrick](https://unsplash.com/colepatrick) for the fantastic photo for the plugin's featured image.
+Thanks to [Tom McFarlin](https://tommcfarlin.com/the-wordpress-media-uploader/) for the basis of the Javascript that initiates the media uploader, [Cole Patrick](https://unsplash.com/colepatrick) for the fantastic photo for the plugin's featured image and [Vectorgraphit](http://www.vectorgraphit.com/) for the great icon.
 
 == Installation ==
 
