@@ -20,22 +20,22 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Textdomain-Support: yes"
 
-#: easy-featured-images.php:37
+#: easy-featured-images.php:78
 #@ easy-featured-images
 msgid "Browse Or Upload An Image"
 msgstr "Beitragsbild festlegen"
 
-#: easy-featured-images.php:38
+#: easy-featured-images.php:79
 #@ easy-featured-images
 msgid "Set featured image"
 msgstr "Beitragsbild festlegen"
 
-#: easy-featured-images.php:94
+#: easy-featured-images.php:81
 #@ easy-featured-images
 msgid "add image"
 msgstr "hinzufügen"
 
-#: easy-featured-images.php:99
+#: easy-featured-images.php:82
 #@ easy-featured-images
 msgid "remove"
 msgstr "entfernen"

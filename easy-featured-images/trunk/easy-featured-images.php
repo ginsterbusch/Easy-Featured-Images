@@ -8,8 +8,17 @@ Author URI:        http://danielpataki.com/
 License:           GPLv2 or later
 */
 
+add_action('init', 'efi_load_textdomain');
 
-load_plugin_textdomain( 'easy-featured-images', false, dirname( plugin_basename( __FILE__ ) ) . '/lang' );
+/**
+ * Load Text Domain
+ * 
+ * Loads the textdomain for translations
+ *
+ */
+function efi_load_textdomain() {
+	load_plugin_textdomain( 'easy-featured-images', false, dirname( plugin_basename( __FILE__ ) ) . '/lang' );
+}
 
 
 add_action( 'init', 'efi_admin_list_modifications' ) ;
