@@ -8,7 +8,7 @@ Author URI:        http://danielpataki.com/
 License:           GPLv2 or later
 */
 
-add_action('init', 'efi_load_textdomain');
+add_action('plugins_loaded', 'efi_load_textdomain');
 
 /**
  * Load Text Domain
