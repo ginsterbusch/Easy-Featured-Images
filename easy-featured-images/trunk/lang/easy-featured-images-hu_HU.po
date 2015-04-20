@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Easy Featured Images v1.1.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-20 08:11+0100\n"
-"PO-Revision-Date: 2015-04-20 08:11+0100\n"
+"POT-Creation-Date: 2015-04-20 08:08+0100\n"
+"PO-Revision-Date: 2015-04-20 08:10+0100\n"
 "Last-Translator: Daniel Pataki <contact@tastique.org>\n"
 "Language-Team: Daniel Pataki\n"
+"Language: Hungarian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: CSL v1.x\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
@@ -21,19 +21,19 @@ msgstr ""
 # @ easy-featured-images
 #: ../easy-featured-images.php:83
 msgid "Browse Or Upload An Image"
-msgstr "Browse Or Upload An Image"
+msgstr "Tallózás / Feltöltés"
 
 # @ easy-featured-images
 #: ../easy-featured-images.php:84
 msgid "Set featured image"
-msgstr "Set featured image"
+msgstr "Kiemelt kép beállítása"
 
 # @ easy-featured-images
 #: ../easy-featured-images.php:86 ../easy-featured-images.php:151
 msgid "add image"
-msgstr "add image"
+msgstr "kép hozzáadása"
 
 # @ easy-featured-images
 #: ../easy-featured-images.php:87 ../easy-featured-images.php:156
 msgid "remove"
-msgstr "remove"
+msgstr "eltávolítás"
