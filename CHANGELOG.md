@@ -1,4 +1,8 @@
-### 1.1.3
+### 1.1.4 (2015-04-21)
+
+- WordPress 4.2 compatibility check
+
+### 1.1.3 (2015-04-20)
 
 - Added hook for modifying the post types
 - Added Hungarian translation
