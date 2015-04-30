@@ -1,3 +1,7 @@
+### 1.1.5 (2015-04-30)
+
+- Increased priority of efi_admin_list_modifications() to make sure it is applied to the post types
+
 ### 1.1.4 (2015-04-21)
 
 - WordPress 4.2 compatibility check
