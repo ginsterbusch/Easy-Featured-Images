@@ -41,9 +41,18 @@
 		 */
 		file_frame.on( 'select', function() {
 			var image_data = file_frame.state().get( 'selection' ).first().toJSON();
-            var thumbnail = image_data.sizes.thumbnail;
-            var medium = image_data.sizes.medium;
-
+            var thumbnail = image_data.sizes.full; // fallback
+			var medium = image_data.sizes.full; // fallback
+			
+			if( typeof image_data.sizes.thumbnail != 'undefined' ) {
+				var thumbnail = image_data.sizes.thumbnail;
+			}
+			
+			if( typeof image_data.sizes.medium != 'undefined' ) {
+				var medium = image_data.sizes.medium;
+			}
+            
+            
             if( efi_thumbnail.hasClass( 'no-image' ) ) {
                 efi_thumbnail.removeClass( 'no-image' );
 
